@@ -1,0 +1,628 @@
+** Name: BC-1 Type: Displacement/Rotation
+*Boundary
+NODESET-1, 1, 1, 7.175498e-05
+NODESET-1, 2, 2, -1.041468e-03
+** Name: BC-2 Type: Displacement/Rotation
+*Boundary
+NODESET-2, 1, 1, 1.319159e-04
+NODESET-2, 2, 2, -1.026641e-03
+** Name: BC-3 Type: Displacement/Rotation
+*Boundary
+NODESET-3, 1, 1, 1.896552e-04
+NODESET-3, 2, 2, -1.003282e-03
+** Name: BC-4 Type: Displacement/Rotation
+*Boundary
+NODESET-4, 1, 1, 2.439424e-04
+NODESET-4, 2, 2, -9.718886e-04
+** Name: BC-5 Type: Displacement/Rotation
+*Boundary
+NODESET-5, 1, 1, 2.938422e-04
+NODESET-5, 2, 2, -9.331263e-04
+** Name: BC-6 Type: Displacement/Rotation
+*Boundary
+NODESET-6, 1, 1, 3.385411e-04
+NODESET-6, 2, 2, -8.878082e-04
+** Name: BC-7 Type: Displacement/Rotation
+*Boundary
+NODESET-7, 1, 1, 3.773703e-04
+NODESET-7, 2, 2, -8.368744e-04
+** Name: BC-8 Type: Displacement/Rotation
+*Boundary
+NODESET-8, 1, 1, 4.098245e-04
+NODESET-8, 2, 2, -7.813655e-04
+** Name: BC-9 Type: Displacement/Rotation
+*Boundary
+NODESET-9, 1, 1, 4.355770e-04
+NODESET-9, 2, 2, -7.223931e-04
+** Name: BC-10 Type: Displacement/Rotation
+*Boundary
+NODESET-10, 1, 1, 4.544886e-04
+NODESET-10, 2, 2, -6.611086e-04
+** Name: BC-11 Type: Displacement/Rotation
+*Boundary
+NODESET-11, 1, 1, 4.666122e-04
+NODESET-11, 2, 2, -5.986699e-04
+** Name: BC-12 Type: Displacement/Rotation
+*Boundary
+NODESET-12, 1, 1, 4.721910e-04
+NODESET-12, 2, 2, -5.362075e-04
+** Name: BC-13 Type: Displacement/Rotation
+*Boundary
+NODESET-13, 1, 1, 4.724774e-04
+NODESET-13, 2, 2, -4.950846e-04
+** Name: BC-14 Type: Displacement/Rotation
+*Boundary
+NODESET-14, 1, 1, 4.681789e-04
+NODESET-14, 2, 2, -4.349163e-04
+** Name: BC-15 Type: Displacement/Rotation
+*Boundary
+NODESET-15, 1, 1, 4.588385e-04
+NODESET-15, 2, 2, -3.773571e-04
+** Name: BC-16 Type: Displacement/Rotation
+*Boundary
+NODESET-16, 1, 1, 4.452882e-04
+NODESET-16, 2, 2, -3.231664e-04
+** Name: BC-17 Type: Displacement/Rotation
+*Boundary
+NODESET-17, 1, 1, 4.284674e-04
+NODESET-17, 2, 2, -2.729402e-04
+** Name: BC-18 Type: Displacement/Rotation
+*Boundary
+NODESET-18, 1, 1, 4.093902e-04
+NODESET-18, 2, 2, -2.270937e-04
+** Name: BC-19 Type: Displacement/Rotation
+*Boundary
+NODESET-19, 1, 1, 3.891111e-04
+NODESET-19, 2, 2, -1.858492e-04
+** Name: BC-20 Type: Displacement/Rotation
+*Boundary
+NODESET-20, 1, 1, 3.686876e-04
+NODESET-20, 2, 2, -1.492310e-04
+** Name: BC-21 Type: Displacement/Rotation
+*Boundary
+NODESET-21, 1, 1, 3.491429e-04
+NODESET-21, 2, 2, -1.170670e-04
+** Name: BC-22 Type: Displacement/Rotation
+*Boundary
+NODESET-22, 1, 1, 3.314284e-04
+NODESET-22, 2, 2, -8.899770e-05
+** Name: BC-23 Type: Displacement/Rotation
+*Boundary
+NODESET-23, 1, 1, 3.163891e-04
+NODESET-23, 2, 2, -6.449233e-05
+** Name: BC-24 Type: Displacement/Rotation
+*Boundary
+NODESET-24, 1, 1, 3.047321e-04
+NODESET-24, 2, 2, -4.287158e-05
+** Name: BC-25 Type: Displacement/Rotation
+*Boundary
+NODESET-25, 1, 1, 2.970000e-04
+NODESET-25, 2, 2, -2.333607e-05
+** Name: BC-26 Type: Displacement/Rotation
+*Boundary
+NODESET-26, 1, 1, 2.935504e-04
+NODESET-26, 2, 2, -4.999732e-06
+** Name: BC-27 Type: Displacement/Rotation
+*Boundary
+NODESET-27, 1, 1, 2.945423e-04
+NODESET-27, 2, 2, 1.307335e-05
+** Name: BC-28 Type: Displacement/Rotation
+*Boundary
+NODESET-28, 1, 1, 2.999299e-04
+NODESET-28, 2, 2, 3.183000e-05
+** Name: BC-29 Type: Displacement/Rotation
+*Boundary
+NODESET-29, 1, 1, 3.094648e-04
+NODESET-29, 2, 2, 5.218868e-05
+** Name: BC-30 Type: Displacement/Rotation
+*Boundary
+NODESET-30, 1, 1, 3.227047e-04
+NODESET-30, 2, 2, 7.500123e-05
+** Name: BC-31 Type: Displacement/Rotation
+*Boundary
+NODESET-31, 1, 1, 3.390311e-04
+NODESET-31, 2, 2, 1.010174e-04
+** Name: BC-32 Type: Displacement/Rotation
+*Boundary
+NODESET-32, 1, 1, 3.576718e-04
+NODESET-32, 2, 2, 1.308537e-04
+** Name: BC-33 Type: Displacement/Rotation
+*Boundary
+NODESET-33, 1, 1, 3.777303e-04
+NODESET-33, 2, 2, 1.649670e-04
+** Name: BC-34 Type: Displacement/Rotation
+*Boundary
+NODESET-34, 1, 1, 3.982188e-04
+NODESET-34, 2, 2, 2.036349e-04
+** Name: BC-35 Type: Displacement/Rotation
+*Boundary
+NODESET-35, 1, 1, 4.180942e-04
+NODESET-35, 2, 2, 2.469428e-04
+** Name: BC-36 Type: Displacement/Rotation
+*Boundary
+NODESET-36, 1, 1, 4.362956e-04
+NODESET-36, 2, 2, 2.947781e-04
+** Name: BC-37 Type: Displacement/Rotation
+*Boundary
+NODESET-37, 1, 1, 4.517821e-04
+NODESET-37, 2, 2, 3.468315e-04
+** Name: BC-38 Type: Displacement/Rotation
+*Boundary
+NODESET-38, 1, 1, 4.601083e-04
+NODESET-38, 2, 2, 3.836388e-04
+** Name: BC-39 Type: Displacement/Rotation
+*Boundary
+NODESET-39, 1, 1, 4.689241e-04
+NODESET-39, 2, 2, 4.415302e-04
+** Name: BC-40 Type: Displacement/Rotation
+*Boundary
+NODESET-40, 1, 1, 4.726126e-04
+NODESET-40, 2, 2, 5.019368e-04
+** Name: BC-41 Type: Displacement/Rotation
+*Boundary
+NODESET-41, 1, 1, 4.704927e-04
+NODESET-41, 2, 2, 5.639455e-04
+** Name: BC-42 Type: Displacement/Rotation
+*Boundary
+NODESET-42, 1, 1, 4.620424e-04
+NODESET-42, 2, 2, 6.265339e-04
+** Name: BC-43 Type: Displacement/Rotation
+*Boundary
+NODESET-43, 1, 1, 4.469159e-04
+NODESET-43, 2, 2, 6.886009e-04
+** Name: BC-44 Type: Displacement/Rotation
+*Boundary
+NODESET-44, 1, 1, 4.249541e-04
+NODESET-44, 2, 2, 7.489995e-04
+** Name: BC-45 Type: Displacement/Rotation
+*Boundary
+NODESET-45, 1, 1, 3.961898e-04
+NODESET-45, 2, 2, 8.065707e-04
+** Name: BC-46 Type: Displacement/Rotation
+*Boundary
+NODESET-46, 1, 1, 3.608465e-04
+NODESET-46, 2, 2, 8.601767e-04
+** Name: BC-47 Type: Displacement/Rotation
+*Boundary
+NODESET-47, 1, 1, 3.193319e-04
+NODESET-47, 2, 2, 9.087338e-04
+** Name: BC-48 Type: Displacement/Rotation
+*Boundary
+NODESET-48, 1, 1, 2.722261e-04
+NODESET-48, 2, 2, 9.512427e-04
+** Name: BC-49 Type: Displacement/Rotation
+*Boundary
+NODESET-49, 1, 1, 2.202650e-04
+NODESET-49, 2, 2, 9.868167e-04
+** Name: BC-50 Type: Displacement/Rotation
+*Boundary
+NODESET-50, 1, 1, 1.027011e-05
+NODESET-50, 2, 2, -1.047447e-03
+** Name: BC-51 Type: Displacement/Rotation
+*Boundary
+NODESET-51, 1, 1, 1.643192e-04
+NODESET-51, 2, 2, 1.014706e-03
+** Name: BC-52 Type: Displacement/Rotation
+*Boundary
+NODESET-52, 1, 1, 1.078885e-04
+NODESET-52, 2, 2, 1.033668e-03
+** Name: BC-53 Type: Displacement/Rotation
+*Boundary
+NODESET-53, 1, 1, 6.919550e-05
+NODESET-53, 2, 2, 1.041898e-03
+** Name: BC-54 Type: Displacement/Rotation
+*Boundary
+NODESET-54, 1, 1, 1.027011e-05
+NODESET-54, 2, 2, 1.047447e-03
+** Name: BC-55 Type: Displacement/Rotation
+*Boundary
+NODESET-55, 1, 1, 3.084258e-05
+NODESET-55, 2, 2, -1.046449e-03
+** Name: BC-56 Type: Displacement/Rotation
+*Boundary
+NODESET-56, 1, 1, 5.135158e-05
+NODESET-56, 2, 2, -1.044455e-03
+** Name: BC-57 Type: Displacement/Rotation
+*Boundary
+NODESET-57, 1, 1, 9.201096e-05
+NODESET-57, 2, 2, -1.037497e-03
+** Name: BC-58 Type: Displacement/Rotation
+*Boundary
+NODESET-58, 1, 1, 1.120782e-04
+NODESET-58, 2, 2, -1.032551e-03
+** Name: BC-59 Type: Displacement/Rotation
+*Boundary
+NODESET-59, 1, 1, 1.514839e-04
+NODESET-59, 2, 2, -1.019781e-03
+** Name: BC-60 Type: Displacement/Rotation
+*Boundary
+NODESET-60, 1, 1, 1.707432e-04
+NODESET-60, 2, 2, -1.011989e-03
+** Name: BC-61 Type: Displacement/Rotation
+*Boundary
+NODESET-61, 1, 1, 2.081830e-04
+NODESET-61, 2, 2, -9.936805e-04
+** Name: BC-62 Type: Displacement/Rotation
+*Boundary
+NODESET-62, 1, 1, 2.262903e-04
+NODESET-62, 2, 2, -9.832079e-04
+** Name: BC-63 Type: Displacement/Rotation
+*Boundary
+NODESET-63, 1, 1, 2.611061e-04
+NODESET-63, 2, 2, -9.597494e-04
+** Name: BC-64 Type: Displacement/Rotation
+*Boundary
+NODESET-64, 1, 1, 2.777494e-04
+NODESET-64, 2, 2, -9.468185e-04
+** Name: BC-65 Type: Displacement/Rotation
+*Boundary
+NODESET-65, 1, 1, 3.093559e-04
+NODESET-65, 2, 2, -9.187046e-04
+** Name: BC-66 Type: Displacement/Rotation
+*Boundary
+NODESET-66, 1, 1, 3.242638e-04
+NODESET-66, 2, 2, -9.035869e-04
+** Name: BC-67 Type: Displacement/Rotation
+*Boundary
+NODESET-67, 1, 1, 3.521648e-04
+NODESET-67, 2, 2, -8.714046e-04
+** Name: BC-68 Type: Displacement/Rotation
+*Boundary
+NODESET-68, 1, 1, 3.651141e-04
+NODESET-68, 2, 2, -8.544138e-04
+** Name: BC-69 Type: Displacement/Rotation
+*Boundary
+NODESET-69, 1, 1, 3.889166e-04
+NODESET-69, 2, 2, -8.188261e-04
+** Name: BC-70 Type: Displacement/Rotation
+*Boundary
+NODESET-70, 1, 1, 3.997388e-04
+NODESET-70, 2, 2, -8.003094e-04
+** Name: BC-71 Type: Displacement/Rotation
+*Boundary
+NODESET-71, 1, 1, 4.191641e-04
+NODESET-71, 2, 2, -7.620365e-04
+** Name: BC-72 Type: Displacement/Rotation
+*Boundary
+NODESET-72, 1, 1, 4.277500e-04
+NODESET-72, 2, 2, -7.423648e-04
+** Name: BC-73 Type: Displacement/Rotation
+*Boundary
+NODESET-73, 1, 1, 4.426423e-04
+NODESET-73, 2, 2, -7.021645e-04
+** Name: BC-74 Type: Displacement/Rotation
+*Boundary
+NODESET-74, 1, 1, 4.489455e-04
+NODESET-74, 2, 2, -6.817220e-04
+** Name: BC-75 Type: Displacement/Rotation
+*Boundary
+NODESET-75, 1, 1, 4.592759e-04
+NODESET-75, 2, 2, -6.403672e-04
+** Name: BC-76 Type: Displacement/Rotation
+*Boundary
+NODESET-76, 1, 1, 4.633141e-04
+NODESET-76, 2, 2, -6.195403e-04
+** Name: BC-77 Type: Displacement/Rotation
+*Boundary
+NODESET-77, 1, 1, 4.691816e-04
+NODESET-77, 2, 2, -5.777973e-04
+** Name: BC-78 Type: Displacement/Rotation
+*Boundary
+NODESET-78, 1, 1, 4.710360e-04
+NODESET-78, 2, 2, -5.569632e-04
+** Name: BC-79 Type: Displacement/Rotation
+*Boundary
+NODESET-79, 1, 1, 4.726648e-04
+NODESET-79, 2, 2, -5.155687e-04
+** Name: BC-80 Type: Displacement/Rotation
+*Boundary
+NODESET-80, 1, 1, 4.716509e-04
+NODESET-80, 2, 2, -4.747915e-04
+** Name: BC-81 Type: Displacement/Rotation
+*Boundary
+NODESET-81, 1, 1, 4.702094e-04
+NODESET-81, 2, 2, -4.547242e-04
+** Name: BC-82 Type: Displacement/Rotation
+*Boundary
+NODESET-82, 1, 1, 4.655871e-04
+NODESET-82, 2, 2, -4.153994e-04
+** Name: BC-83 Type: Displacement/Rotation
+*Boundary
+NODESET-83, 1, 1, 4.624633e-04
+NODESET-83, 2, 2, -3.962036e-04
+** Name: BC-84 Type: Displacement/Rotation
+*Boundary
+NODESET-84, 1, 1, 4.547450e-04
+NODESET-84, 2, 2, -3.588863e-04
+** Name: BC-85 Type: Displacement/Rotation
+*Boundary
+NODESET-85, 1, 1, 4.502166e-04
+NODESET-85, 2, 2, -3.408154e-04
+** Name: BC-86 Type: Displacement/Rotation
+*Boundary
+NODESET-86, 1, 1, 4.399958e-04
+NODESET-86, 2, 2, -3.059595e-04
+** Name: BC-87 Type: Displacement/Rotation
+*Boundary
+NODESET-87, 1, 1, 4.343763e-04
+NODESET-87, 2, 2, -2.892122e-04
+** Name: BC-88 Type: Displacement/Rotation
+*Boundary
+NODESET-88, 1, 1, 4.223075e-04
+NODESET-88, 2, 2, -2.571564e-04
+** Name: BC-89 Type: Displacement/Rotation
+*Boundary
+NODESET-89, 1, 1, 4.159354e-04
+NODESET-89, 2, 2, -2.418714e-04
+** Name: BC-90 Type: Displacement/Rotation
+*Boundary
+NODESET-90, 1, 1, 4.027116e-04
+NODESET-90, 2, 2, -2.128289e-04
+** Name: BC-91 Type: Displacement/Rotation
+*Boundary
+NODESET-91, 1, 1, 3.959387e-04
+NODESET-91, 2, 2, -1.990804e-04
+** Name: BC-92 Type: Displacement/Rotation
+*Boundary
+NODESET-92, 1, 1, 3.822677e-04
+NODESET-92, 2, 2, -1.731336e-04
+** Name: BC-93 Type: Displacement/Rotation
+*Boundary
+NODESET-93, 1, 1, 3.754472e-04
+NODESET-93, 2, 2, -1.609297e-04
+** Name: BC-94 Type: Displacement/Rotation
+*Boundary
+NODESET-94, 1, 1, 3.620263e-04
+NODESET-94, 2, 2, -1.380288e-04
+** Name: BC-95 Type: Displacement/Rotation
+*Boundary
+NODESET-95, 1, 1, 3.554996e-04
+NODESET-95, 2, 2, -1.273119e-04
+** Name: BC-96 Type: Displacement/Rotation
+*Boundary
+NODESET-96, 1, 1, 3.429905e-04
+NODESET-96, 2, 2, -1.072785e-04
+** Name: BC-97 Type: Displacement/Rotation
+*Boundary
+NODESET-97, 1, 1, 3.370752e-04
+NODESET-97, 2, 2, -9.792864e-05
+** Name: BC-98 Type: Displacement/Rotation
+*Boundary
+NODESET-98, 1, 1, 3.260800e-04
+NODESET-98, 2, 2, -8.046399e-05
+** Name: BC-99 Type: Displacement/Rotation
+*Boundary
+NODESET-99, 1, 1, 3.210582e-04
+NODESET-99, 2, 2, -7.230396e-05
+** Name: BC-100 Type: Displacement/Rotation
+*Boundary
+NODESET-100, 1, 1, 3.120972e-04
+NODESET-100, 2, 2, -5.700221e-05
+** Name: BC-101 Type: Displacement/Rotation
+*Boundary
+NODESET-101, 1, 1, 3.082049e-04
+NODESET-101, 2, 2, -4.980521e-05
+** Name: BC-102 Type: Displacement/Rotation
+*Boundary
+NODESET-102, 1, 1, 3.016970e-04
+NODESET-102, 2, 2, -3.617037e-05
+** Name: BC-103 Type: Displacement/Rotation
+*Boundary
+NODESET-103, 1, 1, 2.991152e-04
+NODESET-103, 2, 2, -2.966952e-05
+** Name: BC-104 Type: Displacement/Rotation
+*Boundary
+NODESET-104, 1, 1, 2.953623e-04
+NODESET-104, 2, 2, -1.713628e-05
+** Name: BC-105 Type: Displacement/Rotation
+*Boundary
+NODESET-105, 1, 1, 2.942105e-04
+NODESET-105, 2, 2, -1.103577e-05
+** Name: BC-106 Type: Displacement/Rotation
+*Boundary
+NODESET-106, 1, 1, 2.933856e-04
+NODESET-106, 2, 2, 1.006967e-06
+** Name: BC-107 Type: Displacement/Rotation
+*Boundary
+NODESET-107, 1, 1, 2.937168e-04
+NODESET-107, 2, 2, 7.019583e-06
+** Name: BC-108 Type: Displacement/Rotation
+*Boundary
+NODESET-108, 1, 1, 2.958579e-04
+NODESET-108, 2, 2, 1.920330e-05
+** Name: BC-109 Type: Displacement/Rotation
+*Boundary
+NODESET-109, 1, 1, 2.976569e-04
+NODESET-109, 2, 2, 2.544413e-05
+** Name: BC-110 Type: Displacement/Rotation
+*Boundary
+NODESET-110, 1, 1, 3.026654e-04
+NODESET-110, 2, 2, 3.839443e-05
+** Name: BC-111 Type: Displacement/Rotation
+*Boundary
+NODESET-111, 1, 1, 3.058492e-04
+NODESET-111, 2, 2, 4.517009e-05
+** Name: BC-112 Type: Displacement/Rotation
+*Boundary
+NODESET-112, 1, 1, 3.134935e-04
+NODESET-112, 2, 2, 5.948076e-05
+** Name: BC-113 Type: Displacement/Rotation
+*Boundary
+NODESET-113, 1, 1, 3.179145e-04
+NODESET-113, 2, 2, 6.707565e-05
+** Name: BC-114 Type: Displacement/Rotation
+*Boundary
+NODESET-114, 1, 1, 3.278392e-04
+NODESET-114, 2, 2, 8.328388e-05
+** Name: BC-115 Type: Displacement/Rotation
+*Boundary
+NODESET-115, 1, 1, 3.332909e-04
+NODESET-115, 2, 2, 9.194831e-05
+** Name: BC-116 Type: Displacement/Rotation
+*Boundary
+NODESET-116, 1, 1, 3.450296e-04
+NODESET-116, 2, 2, 1.105124e-04
+** Name: BC-117 Type: Displacement/Rotation
+*Boundary
+NODESET-117, 1, 1, 3.512542e-04
+NODESET-117, 2, 2, 1.204521e-04
+** Name: BC-118 Type: Displacement/Rotation
+*Boundary
+NODESET-118, 1, 1, 3.642477e-04
+NODESET-118, 2, 2, 1.417321e-04
+** Name: BC-119 Type: Displacement/Rotation
+*Boundary
+NODESET-119, 1, 1, 3.709461e-04
+NODESET-119, 2, 2, 1.530997e-04
+** Name: BC-120 Type: Displacement/Rotation
+*Boundary
+NODESET-120, 1, 1, 3.845628e-04
+NODESET-120, 2, 2, 1.773420e-04
+** Name: BC-121 Type: Displacement/Rotation
+*Boundary
+NODESET-121, 1, 1, 3.914052e-04
+NODESET-121, 2, 2, 1.902302e-04
+** Name: BC-122 Type: Displacement/Rotation
+*Boundary
+NODESET-122, 1, 1, 4.049645e-04
+NODESET-122, 2, 2, 2.175568e-04
+** Name: BC-123 Type: Displacement/Rotation
+*Boundary
+NODESET-123, 1, 1, 4.116027e-04
+NODESET-123, 2, 2, 2.319941e-04
+** Name: BC-124 Type: Displacement/Rotation
+*Boundary
+NODESET-124, 1, 1, 4.243995e-04
+NODESET-124, 2, 2, 2.623961e-04
+** Name: BC-125 Type: Displacement/Rotation
+*Boundary
+NODESET-125, 1, 1, 4.304795e-04
+NODESET-125, 2, 2, 2.783450e-04
+** Name: BC-126 Type: Displacement/Rotation
+*Boundary
+NODESET-126, 1, 1, 4.418096e-04
+NODESET-126, 2, 2, 3.116813e-04
+** Name: BC-127 Type: Displacement/Rotation
+*Boundary
+NODESET-127, 1, 1, 4.469839e-04
+NODESET-127, 2, 2, 3.290386e-04
+** Name: BC-128 Type: Displacement/Rotation
+*Boundary
+NODESET-128, 1, 1, 4.561684e-04
+NODESET-128, 2, 2, 3.650392e-04
+** Name: BC-129 Type: Displacement/Rotation
+*Boundary
+NODESET-129, 1, 1, 4.635686e-04
+NODESET-129, 2, 2, 4.026055e-04
+** Name: BC-130 Type: Displacement/Rotation
+*Boundary
+NODESET-130, 1, 1, 4.665173e-04
+NODESET-130, 2, 2, 4.219122e-04
+** Name: BC-131 Type: Displacement/Rotation
+*Boundary
+NODESET-131, 1, 1, 4.707600e-04
+NODESET-131, 2, 2, 4.614288e-04
+** Name: BC-132 Type: Displacement/Rotation
+*Boundary
+NODESET-132, 1, 1, 4.719979e-04
+NODESET-132, 2, 2, 4.815756e-04
+** Name: BC-133 Type: Displacement/Rotation
+*Boundary
+NODESET-133, 1, 1, 4.725806e-04
+NODESET-133, 2, 2, 5.224769e-04
+** Name: BC-134 Type: Displacement/Rotation
+*Boundary
+NODESET-134, 1, 1, 4.718804e-04
+NODESET-134, 2, 2, 5.431591e-04
+** Name: BC-135 Type: Displacement/Rotation
+*Boundary
+NODESET-135, 1, 1, 4.684001e-04
+NODESET-135, 2, 2, 5.847970e-04
+** Name: BC-136 Type: Displacement/Rotation
+*Boundary
+NODESET-136, 1, 1, 4.655877e-04
+NODESET-136, 2, 2, 6.056734e-04
+** Name: BC-137 Type: Displacement/Rotation
+*Boundary
+NODESET-137, 1, 1, 4.577538e-04
+NODESET-137, 2, 2, 6.473368e-04
+** Name: BC-138 Type: Displacement/Rotation
+*Boundary
+NODESET-138, 1, 1, 4.527136e-04
+NODESET-138, 2, 2, 6.680400e-04
+** Name: BC-139 Type: Displacement/Rotation
+*Boundary
+NODESET-139, 1, 1, 4.403571e-04
+NODESET-139, 2, 2, 7.089764e-04
+** Name: BC-140 Type: Displacement/Rotation
+*Boundary
+NODESET-140, 1, 1, 4.330362e-04
+NODESET-140, 2, 2, 7.291237e-04
+** Name: BC-141 Type: Displacement/Rotation
+*Boundary
+NODESET-141, 1, 1, 4.161147e-04
+NODESET-141, 2, 2, 7.685610e-04
+** Name: BC-142 Type: Displacement/Rotation
+*Boundary
+NODESET-142, 1, 1, 4.065239e-04
+NODESET-142, 2, 2, 7.877655e-04
+** Name: BC-143 Type: Displacement/Rotation
+*Boundary
+NODESET-143, 1, 1, 3.851233e-04
+NODESET-143, 2, 2, 8.249349e-04
+** Name: BC-144 Type: Displacement/Rotation
+*Boundary
+NODESET-144, 1, 1, 3.733371e-04
+NODESET-144, 2, 2, 8.428170e-04
+** Name: BC-145 Type: Displacement/Rotation
+*Boundary
+NODESET-145, 1, 1, 3.476688e-04
+NODESET-145, 2, 2, 8.769748e-04
+** Name: BC-146 Type: Displacement/Rotation
+*Boundary
+NODESET-146, 1, 1, 3.338234e-04
+NODESET-146, 2, 2, 8.931728e-04
+** Name: BC-147 Type: Displacement/Rotation
+*Boundary
+NODESET-147, 1, 1, 3.042179e-04
+NODESET-147, 2, 2, 9.236218e-04
+** Name: BC-148 Type: Displacement/Rotation
+*Boundary
+NODESET-148, 1, 1, 2.885068e-04
+NODESET-148, 2, 2, 9.378024e-04
+** Name: BC-149 Type: Displacement/Rotation
+*Boundary
+NODESET-149, 1, 1, 2.554048e-04
+NODESET-149, 2, 2, 9.639113e-04
+** Name: BC-150 Type: Displacement/Rotation
+*Boundary
+NODESET-150, 1, 1, 2.380736e-04
+NODESET-150, 2, 2, 9.757786e-04
+** Name: BC-151 Type: Displacement/Rotation
+*Boundary
+NODESET-151, 1, 1, 2.020127e-04
+NODESET-151, 2, 2, 9.969997e-04
+** Name: BC-152 Type: Displacement/Rotation
+*Boundary
+NODESET-152, 1, 1, 1.833520e-04
+NODESET-152, 2, 2, 1.006303e-03
+** Name: BC-153 Type: Displacement/Rotation
+*Boundary
+NODESET-153, 1, 1, 1.457704e-04
+NODESET-153, 2, 2, 1.021892e-03
+** Name: BC-154 Type: Displacement/Rotation
+*Boundary
+NODESET-154, 1, 1, 1.269486e-04
+NODESET-154, 2, 2, 1.028218e-03
+** Name: BC-155 Type: Displacement/Rotation
+*Boundary
+NODESET-155, 1, 1, 8.862545e-05
+NODESET-155, 2, 2, 1.038232e-03
+** Name: BC-156 Type: Displacement/Rotation
+*Boundary
+NODESET-156, 1, 1, 4.963505e-05
+NODESET-156, 2, 2, 1.044660e-03
+** Name: BC-157 Type: Displacement/Rotation
+*Boundary
+NODESET-157, 1, 1, 2.998090e-05
+NODESET-157, 2, 2, 1.046511e-03
